@@ -320,7 +320,7 @@ function a()
 
 function keyA(e)
 {
-	if (e.key === 'a')
+	if (e.key === 'w')
 	{
 		t = 0;
 		curve.length = 0;
